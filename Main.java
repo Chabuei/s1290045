@@ -1,18 +1,18 @@
 import java.util.Random;
-//import java.util.Scanner;
+import java.util.Scanner;
 
 public class Main {
  
     public static void main(String[] args) {
  
         Random random = new Random();
-        //Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int count = 0;
         int count2 = 0;
         int count3 = 0;
         double coin = 0.0;
 
-        /*System.out.println("Who are you??\n");
+        System.out.println("Who are you??\n");
         System.out.println("> ");
         System.out.println("\n");
         String user_name = sc.nextLine();
