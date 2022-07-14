@@ -16,7 +16,7 @@ public class Main {
         System.out.println("> ");
         System.out.println("\n");
         String user_name = sc.nextLine();
-        System.out.printf("Hello, " + user_name + "!\n");*/
+        System.out.printf("Hello, " + user_name + "!\n");
         System.out.println("Tossing a coin...\n");
 
         for(int i = 0 ; i < 3 ; i++)
